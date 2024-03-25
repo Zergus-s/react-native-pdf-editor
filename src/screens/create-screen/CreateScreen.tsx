@@ -41,7 +41,7 @@ const PDFCreate = () => {
      .map(item =>
        item.type === 'text'
          ? `<p style="font-size:20px">${item.value}</p>`
-         : `<img style="width:100%;object-fit:contain" src="${
+         : `<img style="aspect-ratio:1/1;object-fit:scale-down" src="${
              (item.value as Image).path
            }"/>`,
      )
