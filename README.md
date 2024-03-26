@@ -8,4 +8,3 @@ Functionality :
 
 
 
-Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ad similique eius consectetur. Iste nobis nemo doloribus dolorem dolores quod eaque, earum minus a? Doloribus, illum nemo. Et corrupti reiciendis optio.
